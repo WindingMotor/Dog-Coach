@@ -9,13 +9,11 @@ DogCoach is a Flutter application for FRC that provides match time announcements
 - **Auto Pose Alignment**: Visual display showing robot position relative to target during disabled
 - **Customizable Settings**: Adjust server address, volume, and alignment tolerances
 
-## Screenshot
-
+## Screenshots
 
 <img src="https://github.com/WindingMotor/Dog-Coach/blob/main/screenshots/main.png" width="250" height="auto">
 
 <img src="https://github.com/WindingMotor/Dog-Coach/blob/main/screenshots/align.png" width="250" height="auto">
-
 
 ## Installation
 
