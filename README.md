@@ -1,6 +1,6 @@
 # DogCoach - FRC Team 2106 Match Time Announcer
 
-DogCoach is a Flutter application for FRC that provides match time announcements and before the match robot alignment visualization during FRC competitions.
+DogCoach is a Flutter application for FRC that provides match time announcements and before the match robot alignment assistance.
 
 ## Features
 
