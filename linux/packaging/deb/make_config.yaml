@@ -1,0 +1,17 @@
+display_name: DogCoach
+package_name: dogcoach
+maintainer:
+  name: WindingMotor
+  email: isaac.subudhi@gmail.com
+priority: optional
+section: x11
+installed_size: 15700
+dependencies:
+  - libgtk-3-0
+  - libblkid1
+  - liblzma5
+icon: assets/app_icon.png
+categories:
+  - Development
+  - Utility
+startup_notify: true

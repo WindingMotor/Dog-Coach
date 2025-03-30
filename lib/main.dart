@@ -189,7 +189,7 @@ void _openSettings() {
       double tempRotationTolerance = _rotationTolerance;
       
       return AlertDialog(
-        title: Text('Settings'),
+        title: Text('Settings - V0.1'),
         content: StatefulBuilder(
           builder: (BuildContext context, StateSetter setState) {
             return SingleChildScrollView(
