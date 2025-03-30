@@ -67,7 +67,7 @@ The app will automatically announce the following match times:
 - 0:15 (start of endgame)
 - Final countdown (14 seconds to 1 second)
 
-For audio Announcements to work the `coach_audio` folder must be coped to your documents directory!
+For audio announcements to work the `coach_audio` folder must be coped to your documents directory!
 
 ### Disabled Auto Pose Alignment
 
@@ -90,9 +90,10 @@ The application subscribes to the following NT4 topics:
 - `/SmartDashboard/TargetY` - Target Y position
 - `/SmartDashboard/TargetRotation` - Target rotation
 
-### Audio Files
+## Audio File Configuration
 
 Place WAV audio files in the `coach_audio` directory in your documents with the following names:
+- Prebuilt files are available in this github repo under `coach_audio` and come with a GLaDOS voice.
 - `120.wav` - 2 minute announcement
 - `60.wav` - 1 minute announcement
 - `30.wav` - 30 second announcement
