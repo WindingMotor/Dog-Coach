@@ -68,7 +68,7 @@ class MatchTimePage extends StatefulWidget {
 class _MatchTimePageState extends State<MatchTimePage> {
   late NT4Manager _nt4Manager;
   late Speaker _speaker;
-  final String _defaultServerAddress = '10.30.15.2';
+  final String _defaultServerAddress = '10.21.6.2';
   double _matchTime = 0.0;
   bool _isConnected = false;
   bool _isRobotDisabled = true;
@@ -84,7 +84,7 @@ class _MatchTimePageState extends State<MatchTimePage> {
   };
   
   // Settings
-  String _serverAddress = '10.30.15.2';
+  String _serverAddress = '10.21.6.2';
   bool _autoConnect = true;
   double _volume = 1.0;
   double _xTolerance = 0.0254; // 1 inch in meters
